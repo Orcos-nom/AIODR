@@ -1,5 +1,4 @@
-# AIODR
-{artificial intelligence object detection rover}
+# AIODR {artificial intelligence object detection rover}
 
 #Bluetooth-Controlled Object Detection Rover
 This project features a versatile rover that can be operated via a mobile app using Bluetooth. Powered by the ESP32 microcontroller, it combines robotics and AI to deliver object detection capabilities. The onboard ESP32-CAM module captures real-time video, and with the help of Python libraries like OpenCV, NumPy, TensorFlow, and YOLOv8, it processes and detects objects with high accuracy.
