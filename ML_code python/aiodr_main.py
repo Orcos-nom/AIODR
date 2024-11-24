@@ -7,6 +7,7 @@ import math
 import time
 
 url='http://192.168.201.3:81/stream'#for esp32 cam module 
+# change url with your esp32 cam module url 
 cap = cv2.VideoCapture(url)
 if not cap.isOpened(): # if camera not open print
     print("Error: Could not open video stream.")
