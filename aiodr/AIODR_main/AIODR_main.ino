@@ -1,4 +1,8 @@
-  #include <BluetoothSerial.h>
+// code is for using 2 dc motors 
+// code for 1 MG995 servo motors 360deg
+
+
+#include <BluetoothSerial.h>
 #include <ESP32Servo.h>
 
 //servo motor
