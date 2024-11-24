@@ -1,3 +1,6 @@
+# Download YOLOv8 object detection (Yolo-Weights) form github of ultralytics 
+# use python version --->=3.11
+
 from ultralytics import YOLO
 import cv2
 import math
