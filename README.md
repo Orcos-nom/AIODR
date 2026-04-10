@@ -13,7 +13,7 @@
 
 | **Physical Rover** | **AI Detection Feed** |
 | :---: | :---: |
-| <img src="assets/rover_build.png" width="450" alt="AIODR Hardware"> | <img src="assets/detection_demo.gif" width="450" alt="YOLOv8 Detection"> |
+| <img src="assets/AIODR.png" width="450" alt="AIODR Hardware"> | <img src="assets/detection_demo.gif" width="450" alt="YOLOv8 Detection"> |
 | *Assembled ESP32 Rover* | *Real-time YOLOv8 Object Classification* |
 
 ---
