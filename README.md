@@ -11,9 +11,9 @@
 
 ## 📸 Media & Demos
 
-| **Physical Rover** | **AI Detection Feed** |
+| **Physical Rover** | **Cad design** |
 | :---: | :---: |
-| <img src="assets/AIODR.png" width="450" alt="AIODR Hardware"> | <img src="assets/detection_demo.gif" width="450" alt="YOLOv8 Detection"> |
+| <img src="assets/AIODR.png" width="450" alt="AIODR Hardware"> | <img src="assets/AIODR_design.png" width="450" alt="YOLOv8 Detection"> |
 | *Assembled ESP32 Rover* | *Real-time YOLOv8 Object Classification* |
 
 ---
