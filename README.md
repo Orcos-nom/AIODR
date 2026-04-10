@@ -1,8 +1,22 @@
-# **AIODR - Artificial Intelligence Object Detection Rover**
+# 🤖 AIODR - Artificial Intelligence Object Detection Rover
 
-Welcome to AIODR, an advanced Bluetooth-controlled rover that seamlessly integrates robotics and AI for real-time object detection. Built around the ESP32 microcontroller, this project brings together cutting-edge technology to deliver an interactive and intelligent robotic experience. Whether you're an enthusiast, student, or developer, AIODR offers a hands-on introduction to the exciting intersection of IoT and artificial intelligence.  
+[![ESP32](https://img.shields.io/badge/Hardware-ESP32-blue?logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![YOLOv8](https://img.shields.io/badge/AI-YOLOv8-FF6F00?logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----  
+**AIODR** is an advanced Bluetooth-controlled rover that integrates robotics with real-time AI object detection. By combining the **ESP32** ecosystem with **YOLOv8**, this project serves as a powerful bridge between IoT hardware and computer vision.
+
+---
+
+## 📸 Media & Demos
+
+| **Physical Rover** | **AI Detection Feed** |
+| :---: | :---: |
+| <img src="assets/rover_build.png" width="450" alt="AIODR Hardware"> | <img src="assets/detection_demo.gif" width="450" alt="YOLOv8 Detection"> |
+| *Assembled ESP32 Rover* | *Real-time YOLOv8 Object Classification* |
+
+---
 
 ## **Features**  
 
